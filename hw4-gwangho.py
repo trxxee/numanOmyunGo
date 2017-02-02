@@ -23,7 +23,9 @@ f.write(
     <link href="hankyung_news.css"  rel="stylesheet" type="text/css" />
 </head>
 <body>
-<h1> Team B <김민선, 이남진, 이광호> 한국경제 </h1>
+<h1>Team B <김민선, 이남진, 이광호> 한국경제  </h1>
+
+<img src="http://imsoobin030303.dothome.co.kr/wp-content/uploads/2016/10/27COVERJP1-master675.jpg" width='30%' height='30%' align='center'>
 '''
 )
 
